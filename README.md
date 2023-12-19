@@ -3,15 +3,15 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./.github/assets/logo-light.svg">
       <source media="(prefers-color-scheme: light)" srcset="./.github/assets/logo-dark.svg">
-      <img alt="Volkan Kaban" src="./.github/assets/logo-dark.svg" width="300" height="60" style="max-width: 100%;">
+      <img alt="I'm Volkan Kaban" src="./.github/assets/logo-dark.svg" width="300" height="60" style="max-width: 100%;">
     </picture>
   </a>
 </p> -->
 
-## Volkan Kaban, MBA MIS, Realtor®, Investor, Entrepreneur
+## I'm Volkan Kaban, MBA MIS, Realtor®, Investor, Entrepreneur
 
 <p align="left">
-Welcome to my GitHub profile! I'm Volkan Kaban, a passionate individual dedicated to supporting my loved ones, relatives, friends, and business partners through strategic approaches. As the go-to person working closely with investors to buying, selling, renting for houses, lands, commercial properties, bulk inventories, as well as creating and managing local communities and marketplaces. Beyond real estate, I'm deeply involved in researching Autism, ADHD, and related disorders, aiming to identify causes, develop potential cures, and implement effective interventions. I appreciate everyone who shares valuable resources. Explore my repositories, and feel free to reach out for collaboration, contribution, or a meaningful discussion.
+Welcome to my GitHub profile! I'm Volkan Kaban, a dedicated individual with a passion for supporting my loved ones, relatives, friends, and business partners through strategic approaches. As the go-to person working closely with investors, I specialize in buying, selling, and renting houses, lands, commercial properties, and bulk inventories. Additionally, I create and manage local communities and marketplaces. Beyond real estate, I am deeply involved in researching Autism, ADHD, and related disorders, aiming to identify causes, develop potential cures, and implement effective interventions. I appreciate everyone who shares valuable resources. Explore my repositories, and feel free to reach out for collaboration, contribution, or a meaningful discussion.
 </p>
 
 ## Areas of Interest
