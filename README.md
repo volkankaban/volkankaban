@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm Volkan Kaban, a dedicated individual with a pa
 
 ## Areas of Interest
 - Real Estate, Investment, Trades
-- Marketing, Marketplaces, Management
-- Entertainment & CyberSecurity
+- Marketplaces, Marketing, Management
+- Entertainment, Social Networks & CyberSecurity
 - Research Autism, ADHD & Related Disorders
 
 ##
